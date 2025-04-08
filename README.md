@@ -53,9 +53,11 @@ The analysis of the wholesale customer data revealed the following key findings:
 * **KMeans and Hierarchical clustering suggest distinct customer segments:** Both clustering methods revealed the presence of distinct customer groups, offering insights into customer behavior.
 
 * **5 Clusters based on Kmeans:**
+* 
 ![K-means 5 Clusters](K-means_Cluster_5.png)
 
 * **7 Clusters based on Dendrograms:**
+* 
 ![Dendrogram 7 Clusters](Dendrogram_Clusters_7.png)
 
 ## Conclusion
